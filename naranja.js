@@ -1,0 +1,1 @@
+var grupo = "somos el subgrupo 12"
